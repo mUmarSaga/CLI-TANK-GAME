@@ -24,6 +24,7 @@
 ## 📖 About
 
 Tank War is a console-based artillery game where two players battle it out by calculating the perfect angle and velocity to destroy their opponent's tank. Featuring realistic parabolic projectile physics, dynamic terrain destruction, and explosive animations, this game brings classic turn-based tank warfare to your terminal!
+![image alt](screenshots/one.PNG)
 
 ### ✨ Key Features
 
@@ -61,7 +62,7 @@ Tank War is a console-based artillery game where two players battle it out by ca
 
 ### Objective
 Destroy your opponent's tank by accurately calculating projectile trajectories. Each player takes turns adjusting their tank's firing angle and projectile velocity to land the perfect shot!
-
+![image alt](Photos/two.PNG)
 ### Game Mechanics
 
 **Physics System:**
@@ -250,3 +251,5 @@ Created as a first-semester C++ programming project.
 *"The trajectory of success requires precise calculations and explosive execution!"*
 
 </div>
+🔗 **My Other Projects:**
+- [8 bit breadboard computer](https://github.com/mUmarSaga/Ben_eater_sap_1)
