@@ -62,7 +62,7 @@ Tank War is a console-based artillery game where two players battle it out by ca
 
 ### Objective
 Destroy your opponent's tank by accurately calculating projectile trajectories. Each player takes turns adjusting their tank's firing angle and projectile velocity to land the perfect shot!
-![image alt](Photos/two.PNG)
+![image alt](screenshots/two.PNG)
 ### Game Mechanics
 
 **Physics System:**
@@ -249,6 +249,12 @@ Created as a first-semester C++ programming project.
 **Enjoy the battle! 🎯💥**
 
 *"The trajectory of success requires precise calculations and explosive execution!"*
+## 👤 Author
+
+**mUmar**
+- GitHub: [mUmarSaga](https://github.com/mUmarSaga)
+- Email: umar342342342@gmail.com
+- University: UET Lahore
 
 </div>
 🔗 **My Other Projects:**
